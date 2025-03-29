@@ -17,6 +17,7 @@ Contexte : Nous souhaitons développer un algorithme permettant de détecter les
 Utilisation de 2 méthode de prédiction :
 
 a) Une régression logistique "classique"
+
 b) Un Kmeans
 
  3) Analyser les nombres de faux positifs et faux négatifs via une matrice de confusion
