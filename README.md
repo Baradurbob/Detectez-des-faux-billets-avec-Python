@@ -1,8 +1,10 @@
 # Projet-10---Détectez-des-faux-billets-avec-Python
 
 
-Missions
+# Missions
+
 Contexte : Nous souhaitons développer un algorithme permettant de détecter les faux billets. Pour cela, nous nous servirons des données caractéristiques des vrais billets afin de faire la distinction entre le vrai et le faux. Les données comportent 1000 vrais billets et 500 faux.
+
 1) Analyse descriptive
 A faire :
 
