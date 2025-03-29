@@ -11,15 +11,15 @@ Contexte : Nous souhaitons développer un algorithme permettant de détecter les
 * Nombre de vrais/ faux billets...etc
 
 2) Algorithme
-3) 
-* L'algorithme doit utiliser un fichier contenant les dimensions de plusieurs billets ET de déterminer le type de chacun d'eux, A PARTIR DES SEULES DIMENSIONS
+
+* L'algorithme utilise un fichier contenant les dimensions de plusieurs billets ET de détermine le type de chacun d'eux, A PARTIR DES SEULES DIMENSIONS.
 
 Utilisation de 2 méthode de prédiction :
 
 a) Une régression logistique "classique"
 b) Un Kmeans
 
- 4)Analyser les nombres de faux positifs et faux négatifs via une matrice de confusion
+ 3) Analyser les nombres de faux positifs et faux négatifs via une matrice de confusion
  
 * Pour la méthode de régression logistique
 * Pour la méthode des Kmeans
