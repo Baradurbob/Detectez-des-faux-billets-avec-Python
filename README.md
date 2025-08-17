@@ -1,4 +1,4 @@
-# Projet-10---Détectez-des-faux-billets-avec-Python
+# Détectez-des-faux-billets-avec-Python
 
 
 # Missions
